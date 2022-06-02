@@ -1,3 +1,3 @@
 # Tutorial-Repository
-Tutorial repository
+Tutorial reopsitory
 It's the first file in the first repository!
